@@ -1,4 +1,5 @@
 # Motive
+> [Project Report](https://github.com/STANL-2/Final/wiki/%EB%B3%B4%EA%B3%A0%EC%84%9C)
 
-> [1차 산출물](https://github.com/STANL-2/Final/wiki/STANL2%E2%80%90Final)
+> [Motive Document](https://github.com/STANL-2/Final/wiki/STANL2%E2%80%90Final)
 
