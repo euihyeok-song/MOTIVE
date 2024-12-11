@@ -1,5 +1,6 @@
 # Motive
-이미지!
+<img width="567" alt="image" src="https://github.com/user-attachments/assets/140a2790-575d-4a93-bdd5-689046f07460">
+
 
 ## 영업 관리 시스템
 
