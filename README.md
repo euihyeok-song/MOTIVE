@@ -1,8 +1,12 @@
 # Motive
-<img width="567" alt="image" src="https://github.com/user-attachments/assets/140a2790-575d-4a93-bdd5-689046f07460">
+<div align="center">
+    <img width="567" alt="image" src="https://github.com/user-attachments/assets/eda73c3a-7ccd-47ba-b9d7-63231b25ad36">
+</div>
+
 
 
 ## 영업 관리 시스템
+
 
 **영업 관리 시스템**은 최신 기술을 기반으로 한 혁신적인 플랫폼으로, 영업 활동을 효율적으로 관리하고 데이터 기반 의사 결정을 지원합니다. 기존 시스템의 성공적인 기능들을 확장하며 성능과 유연성을 더욱 강화한 새로운 기능과 개선 사항을 제공합니다. 이 시스템은 빠르고 정확하며 사용하기 쉬워, 고객 관리, 매장 관리, 영업 실적 분석, 통계 보고와 같은 다양한 업무에 적합합니다.
 
