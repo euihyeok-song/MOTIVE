@@ -1,4 +1,3 @@
-# Motive
 <div align="center">
     <img width="567" alt="image" src="https://github.com/user-attachments/assets/eda73c3a-7ccd-47ba-b9d7-63231b25ad36">
 </div>
