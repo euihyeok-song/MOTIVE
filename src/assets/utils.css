@@ -1,0 +1,180 @@
+/* 공유할 css class 작성 */
+
+/* flex, grid 관련 클래스 */
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+.items-center {
+    align-items: center;
+}
+
+.items-start {
+    align-items: flex-start;
+}
+
+.items-end {
+    align-items: flex-end;
+}
+
+.content-center {
+    justify-content: center;
+}
+
+.content-between {
+    justify-content: space-between;
+}
+
+.content-end {
+    justify-content: end;
+}
+
+.grow-1 {
+    flex-grow: 1;
+}
+
+.shrink-0 {
+    flex-shrink: 0;
+}
+
+.gap-5 {
+    gap: 5px;
+}
+
+.gap-10 {
+    gap: 10px;
+}
+
+.gap-20 {
+    gap: 20px;
+}
+
+/* padding */
+.p-16 {
+    padding: 16px;
+}
+    
+.p-20 {
+    padding: 20px;
+}
+
+/* margin */
+.mb-xxs {
+    margin-bottom: 4px;
+}
+.mb-xs {
+    margin-bottom: 8px;
+}
+.mb-s {
+    margin-bottom: 16px;
+}
+.mb-m {
+    margin-bottom: 24px;
+}
+.mb-l {
+    margin-bottom: 32px;
+}
+.mb-xl {
+    margin-bottom: 48px;
+}
+
+.mt-xxs {
+    margin-top: 4px;
+}
+.mt-xs {
+    margin-top: 8px;
+}
+.mt-s {
+    margin-top: 16px;
+}
+.mt-m {
+    margin-top: 24px;
+}
+.mt-l {
+    margin-top: 32px;
+}
+.mt-xl {
+    margin-top: 48px;
+}
+.mt-xxl {
+    margin-top: 56px;
+}
+.mt-xxxl {
+    margin-top: 64px;
+}
+
+.mt-xxxxl {
+    margin-top: 77px;
+}
+
+.mr-xxs {
+    margin-right: 4px;
+}
+.mr-xs {
+    margin-right: 8px;
+}
+.mr-s {
+    margin-right: 16px;
+}
+.mr-m {
+    margin-right: 24px;
+}
+.mr-l {
+    margin-right: 32px;
+}
+.mr-xl {
+    margin-right: 48px;
+}
+
+.ml-xxs {
+    margin-left: 4px;
+}
+.ml-xs {
+    margin-left: 8px;
+}
+.ml-s {
+    margin-left: 16px;
+}
+.ml-m {
+    margin-left: 24px;
+}
+.ml-l {
+    margin-left: 32px;
+}
+.ml-xl {
+    margin-left: 48px;
+}
+.ml-xxl {
+    margin-left: 56px;
+}
+.ml-xxxl {
+    margin-left: 64px;
+}
+.ml-xxxxl {
+    margin-left: 90px;
+}
+.ml-xxxxxl {
+    margin-left: 95px;
+}
+
+.width-full{
+    width: 100%;
+}
+.width-s{
+    width: 95%;
+}
+.width-xs{
+    width: 90%;
+}
+.width-xxs{
+    width: 85%;
+}
+.width-xxxs{
+    width: 80%;
+}
