@@ -1,4 +1,4 @@
-[MOTIVE_FINAL.pptx](https://github.com/user-attachments/files/18190726/MOTIVE_FINAL.pptx)<div align="center">
+<div align="center">
     <img width="567" alt="image" src="https://github.com/user-attachments/assets/9ca220f4-773b-4be6-a4eb-8e0c00cab4f5">
 </div>
 
@@ -84,10 +84,13 @@
 - **백엔드**: `http://localhost:8080`  
 - **프론트엔드**: `http://localhost:5173`
 
-<br><br>
+<br>
 
 ## 📃 참고 ppt
-[MOTIVE_FINAL.pptx](https://github.com/user-attachments/files/18190725/MOTIVE_FINAL.pptx)
+<img width="1200" alt="스크린샷 2024-12-19 오전 9 41 48" src="https://github.com/user-attachments/assets/ab65fb27-4bef-4f74-8878-3dd5101acec2" />
+[MOTIVE](https://github.com/user-attachments/files/18190725/MOTIVE_FINAL.pptx)
+
+<br>
 
 ## 🌐 영업 관리 시스템 허브
 
