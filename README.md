@@ -1,4 +1,4 @@
-<div align="center">
+[MOTIVE_FINAL.pptx](https://github.com/user-attachments/files/18190726/MOTIVE_FINAL.pptx)<div align="center">
     <img width="567" alt="image" src="https://github.com/user-attachments/assets/9ca220f4-773b-4be6-a4eb-8e0c00cab4f5">
 </div>
 
@@ -14,6 +14,7 @@
 <br><br>
 
 ## 🚀 핵심 기능
+
 - ✅ 효율적인 프로세스를 통한 시간 단축 & 정확도 향상
 - 📊 통계를 통한 여러 지표들의 다양한 리표팅 기능
 - 🔔 로그 모니터링 및 알림 실시간 문제 감지
@@ -84,6 +85,9 @@
 - **프론트엔드**: `http://localhost:5173`
 
 <br><br>
+
+## 📃 참고 ppt
+[MOTIVE_FINAL.pptx](https://github.com/user-attachments/files/18190725/MOTIVE_FINAL.pptx)
 
 ## 🌐 영업 관리 시스템 허브
 
